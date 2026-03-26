@@ -63,6 +63,7 @@ AI tools for video and audio creation.
 - **[ElevenLabs](https://elevenlabs.io/)** - AI voice generation and cloning. Natural-sounding text-to-speech.
 - **[Synthesia](https://www.synthesia.io/)** - Create AI videos with virtual presenters.
 - **[Pictory](https://pictory.ai/)** - Turn long-form content into short videos automatically.
+- **[PVID](http://pvid.app/)** - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with image-to-video, text-to-video support. 100 free credits.
 - **[Murf AI](https://murf.ai/)** - AI voice generator for voiceovers and narration.
 
 ## Data & Analytics
