@@ -42,6 +42,12 @@ Create stunning images with AI.
 - **[Leonardo.ai](https://leonardo.ai/)** - AI art generator with fine-tuned models for different styles.
 - **[Ideogram](https://ideogram.ai/)** - AI image generator that's great at text rendering.
 
+### Photo Enhancement & Restoration
+
+Restore old and damaged photos with AI.
+
+- **[PhotoRestore.ai](https://photorestore.ai/)** - AI-powered old photo restoration — repairs scratches, fading, tears, and colorizes B&W images.
+
 ## Writing & Content
 
 AI tools for writing, editing, and content creation.
