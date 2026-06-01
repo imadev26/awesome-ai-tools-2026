@@ -85,6 +85,7 @@ AI-powered development and DevOps tools.
 - **[Phind](https://www.phind.com/)** - AI search engine for developers. Get instant answers with code examples.
 - **[Warp](https://www.warp.dev/)** - AI-powered terminal with command suggestions.
 - **[Mintlify](https://mintlify.com/)** - AI-powered documentation generation.
+- **[TinyTools](https://tinytools-smoky.vercel.app/)** - Free, browser-based AI developer utilities: AI cost calculator (compare LLM pricing), SEO meta tag generator, AI robots.txt generator, OG image generator, favicon generator, color palette generator, and AI background remover (runs locally, no upload). No signup required. Open source.
 
 ## Learning Resources
 
