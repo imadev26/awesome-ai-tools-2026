@@ -53,6 +53,7 @@ AI tools for writing, editing, and content creation.
 - **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool for marketing, sales, and social media.
 - **[Grammarly](https://www.grammarly.com/)** - AI-powered writing assistant for grammar, tone, and clarity.
 - **[Notion AI](https://www.notion.so/product/ai)** - AI assistant built into Notion for writing and organizing.
+- **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Video & Audio
 
