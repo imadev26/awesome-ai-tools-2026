@@ -41,6 +41,7 @@ Create stunning images with AI.
 - **[Adobe Firefly](https://www.adobe.com/products/firefly.html)** - AI image generation integrated into Adobe products.
 - **[Leonardo.ai](https://leonardo.ai/)** - AI art generator with fine-tuned models for different styles.
 - **[Ideogram](https://ideogram.ai/)** - AI image generator that's great at text rendering.
+- **[Seedream AI Studio](https://seedream4.video/)** - Multi-model platform (Seedream 5.0/4.5/4.0) by ByteDance. Ranked #1 in AI Image Arena 2026. Up to 10 reference images + Kling 2.1 video. Free tier.
 
 ## Writing & Content
 
