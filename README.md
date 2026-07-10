@@ -59,6 +59,7 @@ AI tools for writing, editing, and content creation.
 AI tools for video and audio creation.
 
 - **[Runway](https://runwayml.com/)** - AI video editing and generation. Create videos from text prompts.
+- **[ImagineClip](https://imagineclip.com/)** - AI video generator for avatar clips, stylized scenes, and social-ready videos.
 - **[Descript](https://www.descript.com/)** - AI-powered video and podcast editing. Edit audio by editing text.
 - **[ElevenLabs](https://elevenlabs.io/)** - AI voice generation and cloning. Natural-sounding text-to-speech.
 - **[Synthesia](https://www.synthesia.io/)** - Create AI videos with virtual presenters.
