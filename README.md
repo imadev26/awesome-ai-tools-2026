@@ -58,6 +58,7 @@ AI tools for writing, editing, and content creation.
 
 AI tools for video and audio creation.
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - **[Runway](https://runwayml.com/)** - AI video editing and generation. Create videos from text prompts.
 - **[Descript](https://www.descript.com/)** - AI-powered video and podcast editing. Edit audio by editing text.
 - **[ElevenLabs](https://elevenlabs.io/)** - AI voice generation and cloning. Natural-sounding text-to-speech.
