@@ -79,6 +79,7 @@ AI tools for data analysis and insights.
 
 AI-powered development and DevOps tools.
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** - CLI for AI-assisted browser QA that runs journeys against web apps and captures reviewable evidence. The package is free; configured model providers may charge for usage.
 - **[GitHub Copilot Workspace](https://github.com/features/copilot)** - AI-powered development environment.
 - **[Vercel v0](https://v0.dev/)** - Generate UI components from text descriptions.
 - **[Pieces](https://pieces.app/)** - AI-powered code snippet manager and workflow tool.
