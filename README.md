@@ -52,6 +52,7 @@ AI tools for writing, editing, and content creation.
 - **[Jasper](https://www.jasper.ai/)** - AI writing assistant for marketing and business content.
 - **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool for marketing, sales, and social media.
 - **[Grammarly](https://www.grammarly.com/)** - AI-powered writing assistant for grammar, tone, and clarity.
+- **[ResumeAI](https://withresumeai.com/)** - AI resume builder + free ATS checker for job seekers.
 - **[Notion AI](https://www.notion.so/product/ai)** - AI assistant built into Notion for writing and organizing.
 
 ## Video & Audio
