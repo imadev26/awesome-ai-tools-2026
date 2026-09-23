@@ -76,6 +76,7 @@ AI tools for data analysis and insights.
 - **[H2O.ai](https://h2o.ai/)** - Open-source AI and ML platform for data science.
 
 ## Development Tools
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 AI-powered development and DevOps tools.
 
