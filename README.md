@@ -64,6 +64,9 @@ AI tools for video and audio creation.
 - **[Synthesia](https://www.synthesia.io/)** - Create AI videos with virtual presenters.
 - **[Pictory](https://pictory.ai/)** - Turn long-form content into short videos automatically.
 - **[Murf AI](https://murf.ai/)** - AI voice generator for voiceovers and narration.
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA.
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99).
+- **[dime dime baby ai](https://dimedimebabyai.dev)** - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99).
 
 ## Data & Analytics
 
