@@ -59,6 +59,8 @@ AI tools for writing, editing, and content creation.
 AI tools for video and audio creation.
 
 - **[Runway](https://runwayml.com/)** - AI video editing and generation. Create videos from text prompts.
+- **[Cyanvid](https://cyanvid.com/?utm_source=imadev26-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks)** - AI video generator from text or images; credit quotes before generate.
+- **[Barz Studio](https://barzvideo.com/?utm_source=imadev26-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks)** - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - **[Descript](https://www.descript.com/)** - AI-powered video and podcast editing. Edit audio by editing text.
 - **[ElevenLabs](https://elevenlabs.io/)** - AI voice generation and cloning. Natural-sounding text-to-speech.
 - **[Synthesia](https://www.synthesia.io/)** - Create AI videos with virtual presenters.
